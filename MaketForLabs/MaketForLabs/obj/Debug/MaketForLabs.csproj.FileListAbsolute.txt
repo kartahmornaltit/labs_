@@ -1,0 +1,62 @@
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe.config
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.pdb
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form1.resources
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.exe
+c:\users\student\documents\visual studio 2012\Projects\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.pdb
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe.config
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.pdb
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csprojResolveAssemblyReference.cache
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form1.resources
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Lab1.resources
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Properties.Resources.resources
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.GenerateResource.Cache
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.CoreCompileInputs.cache
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.exe
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.pdb
+I:\progs\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe.config
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.exe
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.pdb
+I:\progs\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe
+I:\progs\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.pdb
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csprojResolveAssemblyReference.cache
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form1.resources
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Lab1.resources
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Properties.Resources.resources
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab1.resources
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.GenerateResource.Cache
+I:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form2.resources
+E:\progs\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe.config
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.exe
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.pdb
+E:\progs\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe
+E:\progs\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.pdb
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csprojResolveAssemblyReference.cache
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form1.resources
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form2.resources
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Lab1.resources
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Properties.Resources.resources
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab1.resources
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab2.resources
+E:\progs\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.GenerateResource.Cache
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form2.resources
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab1.resources
+D:\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab2.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe.config
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.exe
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\bin\Debug\MaketForLabs.pdb
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csprojResolveAssemblyReference.cache
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form1.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Form2.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Lab1.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.Properties.Resources.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab1.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.VPLab2.resources
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.GenerateResource.Cache
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.csproj.CoreCompileInputs.cache
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.exe
+D:\SUAI\progs\Visual Studio 2017\MaketForLabs\MaketForLabs\obj\Debug\MaketForLabs.pdb
